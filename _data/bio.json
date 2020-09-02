@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Marcos Buccat Jr.",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://buccatm.github.io/images/molly.png",
+    "email": "buccatm@hawaii.edu",
+    "phone": "808-589-9599",
+    "website": "https://buccatm.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate at Fall 2023",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,27 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "buccatm",
+        "url": "http://github.com/buccatm"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "marcos-buccat-jr",
+        "url": "https://www.linkedin.com/in/marcos-buccat-jr-1649221b4/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web Design",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Javascript",
+        "HTML",
+        "CSS"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "Game Design",
       "keywords": [
       ]
     }
