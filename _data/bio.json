@@ -6,9 +6,9 @@
     "email": "buccatm@hawaii.edu",
     "phone": "808-589-9599",
     "website": "https://buccatm.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate at Fall 2023.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii At Manoa. I expect to graduate at Fall 2023.",
     "location": {
-      "address": "",
+      "address": "4207 Keaka Drive",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -90,8 +90,8 @@
       "endDate": "2017-12-16",
       "summary": "This was my community project for my ethnic class.",
       "highlights": [
-        "Meeting with other people's to hear their idea to fight for better working conditions, pay and social justice.",
-        "Partticipate in events to fight for better worker rights."
+        "Meeting with other people's to hear their idea to fight for better working conditions, pay, and social justice.",
+        "Participate in events to fight for better worker rights."
       ]
     }
   ],
