@@ -58,6 +58,12 @@
     }
   ],
   "education": [
+    { 
+      "high school": "Moanalua High School",
+      "startDate": "2014",
+      "endDate": "2017",
+      "gpa": "3.7"
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2023)",
@@ -84,6 +90,16 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "Moilili Community Thrift Shop",
+      "startDate": "2014-12-10",
+      "endDate": "2014-12-10",
+      "summary": "This was for my Community service project."
+      "highlights": [
+        "Sorting items",
+        "putting items to display"
+    ]
+    },
     {
       "organization": "Local 5",
       "startDate": "2017-11-01",
