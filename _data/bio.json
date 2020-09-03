@@ -60,8 +60,10 @@
   "education": [
     { 
       "institution": "Moanalua High School",
-      "startDate": "2014",
-      "endDate": "2017",
+      "area": "",
+      "studyType": "",
+      "startDate": "2014-08-24",
+      "endDate": "2017-05-22",
       "gpa": "3.7"
     },
     {
