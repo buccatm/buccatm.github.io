@@ -64,7 +64,9 @@
       "studyType": "",
       "startDate": "2014-08-24",
       "endDate": "2017-05-22",
-      "gpa": "3.7"
+      "gpa": "3.7",
+      "courses": [
+        ]
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -87,7 +89,7 @@
       "highlights": [
         "Compiling Record files",
         "Running Errands",
-        "Printing, Typing."
+        "Printing, Typing, answering calls"
       ]
     }
   ],
@@ -107,7 +109,7 @@
       "organization": "Local 5",
       "startDate": "2017-11-01",
       "endDate": "2017-12-16",
-      "summary": "This was my community project for my ethnic class.",
+      "summary": "This was my community project for my ethnic project.",
       "highlights": [
         "Meeting with other people's to hear their idea to fight for better working conditions, pay, and social justice.",
         "Participate in events to fight for better worker rights."
