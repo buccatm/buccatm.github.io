@@ -59,7 +59,7 @@
   ],
   "education": [
     { 
-      "high school": "Moanalua High School",
+      "institution": "Moanalua High School",
       "startDate": "2014",
       "endDate": "2017",
       "gpa": "3.7"
@@ -97,7 +97,8 @@
       "summary": "This was for my Community service project.",
       "highlights": [
         "Sorting items",
-        "putting items to display"
+        "putting items to display",
+        "handling donated goods"
     ]
     },
     {
