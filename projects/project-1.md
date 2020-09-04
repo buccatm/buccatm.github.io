@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/project1-img.png
+image: images/project1-img.pjg
 title: Bank Records
-permalink: projects/vacay
+# permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-16
 labels:
   - C
-summary: My First programing project in C.
+summary: My First programing project using C language, unix Script commands, and makefiles.
 ---
 
 <div class="ui small rounded images">
