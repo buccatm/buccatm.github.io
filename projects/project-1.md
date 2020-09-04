@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/project1-img.jpg
 title: Bank Records
-permalink: projects/Bank
+permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-16
 labels:
