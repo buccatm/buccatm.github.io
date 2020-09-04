@@ -8,6 +8,7 @@ permalink: projects/project-1
 date: 2020-03-16
 labels:
   - C
+  - unix
 summary: My First programing project using C language, unix Script commands, and makefiles.
 ---
 
