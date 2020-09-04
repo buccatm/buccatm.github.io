@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/project1-img.png
 title: Bank Records
-permalink: projects/micromouse
+permalink: projects/ICS 212 Project 1
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-16
 labels:
