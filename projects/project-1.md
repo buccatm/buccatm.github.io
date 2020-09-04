@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project1-img.pjg
+image: images/project1-img.jpg
 title: Bank Records
 # permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
