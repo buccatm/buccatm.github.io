@@ -19,6 +19,7 @@ This was the my project for ICS 212. This course enforced our data structure by 
 For this project it tested our knowledge of C and unix. The goal of this program was to implement a singly linked list ob bank records. The condition was while the program ran it must be able to allow a user to add a record, delete a record, print all of the record or just a specific record and delete a record. Then when the program closes those all data will be saved onto a file, where that file will be read when the program starts. So this ment that you will always start with some data. We also have to take account a user friendly interface.
 
 
+Source: <a href="https://github.com/buccatm/ICS212-C"><i class="large github icon "></i>ICS 212 project 1</a>
 
 
 
