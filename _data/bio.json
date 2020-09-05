@@ -41,6 +41,14 @@
       "keywords": [
         "Unity"
       ]
+    },
+    {
+      "name": "Mobile App Developer",
+      "keywords": [
+        "Java",
+        "C",
+        "C++"
+      ]
     }
   ],
   "skills": [
@@ -58,16 +66,6 @@
     }
   ],
   "education": [
-    { 
-      "institution": "Moanalua High School",
-      "area": "",
-      "studyType": "",
-      "startDate": "2014-08-24",
-      "endDate": "2017-05-22",
-      "gpa": "3.7",
-      "courses": [
-        ]
-    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2023)",
