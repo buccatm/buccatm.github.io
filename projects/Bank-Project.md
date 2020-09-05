@@ -5,7 +5,7 @@ image: images/Bank-record.jpg
 title: Bank Records
 permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!
-date: 2020-03-16
+date: 2020-02-16
 labels:
   - C
   - unix
