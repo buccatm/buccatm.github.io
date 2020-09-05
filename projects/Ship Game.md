@@ -18,4 +18,4 @@ I was given the task of creating the obstacles. Initially I used the EZCircle fr
 
 This project made me realized the difficulty of creating video games. There is a lot of problems that would occur. Many of the times you would be looking at it for hours trying to debug it. Also the code itself is very messy. This gave me the impression that I needed some more practice. I was a beginner when I was working on this project. But now that I have a bit more experience in coding, I'm looking forward to improving this.
 
-Source: <a href="https://github.com/buccatm/Java-Game3/tree/master/pro3y"><i class="large github icon"></i>Ship Game/vacay</a>
+Source: <a href="https://github.com/buccatm/Java-Game3"><i class="large github icon"></i>Ship Game</a>
