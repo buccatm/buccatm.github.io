@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: On My to Becoming A Software Engineer
+title: On My Way to Becoming A Software Engineer
 date: 2020-09-04
 labels:
   - JavaScript
