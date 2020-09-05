@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Bank-record.jpg
+image: images/bank-2-img.jpg
 title: The Bank Record Part 2
 permalink: google
 # All dates must be YYYY-MM-DD format!
