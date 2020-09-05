@@ -95,6 +95,17 @@
   ],
   "volunteer": [
     {
+      "organization": "Moanlua High School Engineering Club",
+      "startDate": "2016-8-24",
+      "endDate": "2017-5-10",
+      "summary": "This club introduced me Civil engineering. For that year I participated a competition for designing an efficient parkinglot. We were only able to design our parking lot on a given schematic of the parking unkown parking lot. We were palced second for this competition.",
+      "highlights": [
+        "Civil Engineering Team Competition",
+        "Designing A Parking lot",
+        "Team Work"
+    ]
+    },
+    {
       "organization": "Moilili Community Thrift Shop",
       "startDate": "2014-12-10",
       "endDate": "2014-12-10",
@@ -121,6 +132,12 @@
       "title": "B+ Scholarship",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
+      "summary": "Offered to students based on financial need and availability. This fund is prorated according to enrollment. Minimum enrollment is half time. Graduate students enrolled in a 1 credit full-time course will not be considered for this grant."
+    },
+    {
+      "title": "Manoa Opportunity Grant",
+      "date": "2017-Present",
+      "awarder": "Uh Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
   ],
