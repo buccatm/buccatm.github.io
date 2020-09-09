@@ -18,7 +18,7 @@ For this project it tested our knowledge of C and unix. The goal of this program
 
 Implementing this program taught us the importance of taking less time coding and more time creating a psuedocode. And when a bug occurs we would trace. All of this would make you code more efficiently. As a result, these two things made it possible for me to create this programm with little issues.
 
-<img class="ui medium right floated rounded image" src="../images/project1-img-redo.PNG">
+<img class="ui medium right floated rounded image" src="../images/project1-img-redo.jpg">
 
 Source: <a href="https://github.com/buccatm/ICS212-C"><i class="large github icon "></i>ICS 212 project 1</a>
 
