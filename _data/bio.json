@@ -94,10 +94,21 @@
   ],
   "volunteer": [
     {
+      "organization": "Local 5",
+      "startDate": "2017-11-01",
+      "endDate": "2017-12-16",
+      "summary": "This was my community project for my ethnic project. This project gave me insights as to what the orginization was fighting for and their determination in doing so. It gave me the opportunity to learn about fighting for social injustices.",
+      "highlights": [
+        "Meeting with other people's to hear their idea to fight for better working conditions, pay, and social justice.",
+        "Participate in events to fight for better worker rights."
+        "Practicing the rights to peaceful protest rally"
+      ]
+    },
+    {
       "organization": "Moanlua High School Engineering Club",
       "startDate": "2016-8-24",
       "endDate": "2017-5-10",
-      "summary": "This club introduced to me Civil engineering. For that year I participated in a competition for designing an efficient parking lot. We were only able to design our parking lot on a given schematic of the unkown parking lot. We were placed second for this competition.",
+      "summary": "This club introduced to me Civil engineering. I participated in a competition for designing a parking lot. We designed our parking lot on a given schematic of the unkown parking lot and were placed second for this competition.",
       "highlights": [
         "Civil Engineering Team Competition",
         "Designing A Parking lot",
@@ -108,23 +119,14 @@
       "organization": "Moilili Community Thrift Shop",
       "startDate": "2014-12-10",
       "endDate": "2014-12-10",
-      "summary": "This was for my Community service project.",
+      "summary": "This was for my Community service project. This was also my first time volunteerring.",
       "highlights": [
-        "Sorting items",
+        "Sorting the donated items",
         "putting items to display",
         "handling donated goods"
     ]
-    },
-    {
-      "organization": "Local 5",
-      "startDate": "2017-11-01",
-      "endDate": "2017-12-16",
-      "summary": "This was my community project for my ethnic project.",
-      "highlights": [
-        "Meeting with other people's to hear their idea to fight for better working conditions, pay, and social justice.",
-        "Participate in events to fight for better worker rights."
-      ]
     }
+    
   ],
   "awards": [
     {
