@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-draft: true
+draft: false
 title: How Does One Ask a Smart Question?
-date: 2020-09-03
+date: 2020-09-10
 labels:
   - Create Smart Questions
   - Software Engineer
