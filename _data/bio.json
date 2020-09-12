@@ -121,6 +121,18 @@
   ],
   "volunteer": [
     {
+      "organization": "Local 5",
+      "website": "",
+      "startDate": "2017-11-01",
+      "endDate": "2017-12-16",
+      "summary": "This ethnic community project gave me insights as to what the orginization was fighting for and their determination in doing so. It gave me the opportunity to learn about fighting for social injustices.",
+      "highlights": [
+        "Meeting with other people's to hear their idea to fight for better working conditions, pay, and social justice.",
+        "Participate in events to fight for better worker rights.",
+        "Practicing the rights to peaceful protest rally"
+      ]
+    },
+    {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
