@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Do not Click Submit Just Yet
 date: 2020-09-24
-draft: true
+draft: false
 labels:
   - JavaScript
   - ESLINT
