@@ -11,7 +11,7 @@ labels:
 
 It was my second quiz for ICS 212 and there was only one question left with three minutes remaining. The question was a simple figure out the total for the variable count after looping through 5 times. The given pseudocode was as follow:
 ```
-Int main(int arg, char*[])
+int main(int arg, char*[])
     int i = 0;
     int count = 0;
     while (i  < 5)
