@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: I Have no Idea What I’m Doing
-date: 2020-12-2
+date: 2020-12-02
 labels:
   - Design Pattern
 ---
