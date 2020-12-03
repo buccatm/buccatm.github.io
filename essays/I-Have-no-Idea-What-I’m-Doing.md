@@ -14,7 +14,7 @@ Here is a scenario, you are given a task to build a component of this giant appl
 
 Design Patterns is a repeatable solution to a common problem for software design. Another way of thinking about this is using an existing template or idea to solve your problem. Now this may seem like a copy and paste but, remember it is the idea you are copying not the actual code. And now going back to the scenario, had you chosen to ignore what your colleagues and Google recomended, your tasks may have never been finished on time. And most likely, you had been fired. Using the Design patterns speeds up your development process because these Design patterns were already created and tested. As a programmer if this is your first-time hearing about this concept then you would be surprised that you had been using Design pattern without realizing it.
 
-## Wait, I was using them this whole time?
+## Wait, I Was Using Them This Whole Time?
 
 Despite being a Computer Science student this is my first-time hearing about Design patterns. And to my surprise, I had been using some them this whole time. After doing some reading online, the 26 Design patterns are classified into 3 types Creational, Structural and Behavioral. For instance, one of the Creational designs is the Factory Method. This method takes me back to the time when I was learning about Object-Oriented Programming by implementing the Manoa Brewery. So, in this small project we had to implement a Brewery by creating the parent class called beer and the types of beers as the child of beer. Then the Brewery class would brew the beers or in this case create the beers. So, in a sense, the factory here would be the Brewery because it is the one that was creating the classes. 
 
