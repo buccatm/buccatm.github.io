@@ -3,9 +3,8 @@ layout: essay
 type: essay
 title: I Have no Idea What I’m Doing
 date: 2020-12-2
-draft: True
+draft: true
 labels:
-  - JavaScript
   - Design Pattern
 ---
 
@@ -21,7 +20,7 @@ This is my first-time hearing about Design patterns. And to my surprise, I had b
 
 Something I recently learned is that I had been using the MVC or Model View Controller pattern for a while now. With the introduction of Mongos, React, and semantic I found one way of officially making a working website. And by using those three things I had also been using the MVC design pattern. Currently I am working on creating a prototype that uses the MVC pattern. The Model is the interaction with the data. This is where Mongo comes in as it manages the data. The View is the interface of the application or the design. For this we used React, Semantic, CSS and HTML. As for the Control, this is how the user interacts with the application. So, for the web application the user will be interacting with our map. The user can request the server to edit the map by adding new data or changing some of the data. In which the controller then takes those data to the Model to update the data.
 
-## Conlcusion
+## In Conclusion
 
 When it comes to tackling new it is best to just stick with what has already been proven to work. I mean why go through the trouble of trying to be creating something that would probably take longer than it must be. Even though it may seem like trying to copy something that has already done. Just remember that these ideas are not codes they are just template or ideas for you to use to create an effective software design. But if you really know what your doing then go ahead and create something new.
 
