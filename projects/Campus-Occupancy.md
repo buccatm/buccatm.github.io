@@ -38,6 +38,7 @@ Creating the import page was one of my task. Originally we wanted a way to uploa
 This project is a step up from my previous experience with collaborating in a <a href="https://buccatm.github.io/projects/SpaceShip-Game">group Project</a>. It introduce to me a new way of collaborating by using Github. Prior to using github, my first group project relied on emailing each other to send the updated version of the code. Luckily at the time the project was just a small and simple game, but just imagining how it would have been if the project was massive, makes me glad about using Github. The most frustrating part of this project was definitely trying to fix bugs and issues especially the map. There were lots of researching involved in trying to fix bugs. However at the end of it all, I was finally able to work with one of my interest, and that is to develope a working website.
 
 GitHub Repository: <a href="https://github.com/campus-occupancy/campus-occupancy"><i class="large github icon "></i>Campus Occupancy Application</a>
+### 
 GitHub IO: <a href="https://campus-occupancy.github.io/"><i class="large github icon "></i>Campus Occupancy</a>
 
 
