@@ -9,7 +9,7 @@ date: 2020-12-17
 labels:
   - Meteor
   - Leaflet
-  - Semantic React
+  - Semantic ui React
   - Mongo
   - Github
 summary: In this group project, I helped create a web application prototype, that involves visualizing a data on a map using Meteor, Semantic React, Mongo and Leaflet and Github.
