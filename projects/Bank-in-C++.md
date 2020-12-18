@@ -12,7 +12,7 @@ labels:
 summary: This is a continuation of ICS 212. This is the same Bank Record project as in project 1. But this time it is implemented in C++ with additional functions/features added and new requirements.
 ---
 
-Project 2 was the final project for ICS 212. The project is still the same with the same requirement, that is it be a singly linked list. However, the catch now is the whole program must be implemented in C++. Ontop of that a recursive function was added to allow the user to put the entire list in reverse. The C++ was just like Java without the training wheels. C++ still had pointers just like C, but now classes are involved. 
+Project 2 was the final project for ICS 212. The project is still the same with the same requirement, that is it be a singly linked list. However, the catch now is the whole program must be implemented in C++. On top of that a recursive function was added to allow the user to put the entire list in reverse. The C++ was just like Java without the training wheels. C++ still had pointers just like C, but now classes are involved. 
 
 <img class="ui medium right floated rounded image" src="../images/project2-img.jpg">
 
