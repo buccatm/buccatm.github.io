@@ -12,7 +12,7 @@ labels:
   - Semantic ui React
   - Mongo
   - Github
-summary: In this group project, I helped create a web application prototype, that involves visualizing a data on a map using Meteor, Semantic React, Mongo and Leaflet and Github.
+summary: In this group project, I helped create a web application prototype, that involves visualizing a data on a map using Meteor, Semantic ui React, Mongo, Leaflet, and Github.
 ---
 
 This web application was meant for the HACC 2020 competition. Unfortunately, we ended up deciding to forfeit because of our busy schedules. But this did not stop us from finishing it. We continued to work on this application as our final project. For this Project I collaborated with <a href="https://calianafortin.github.io/">Caliana Fortin</a> and <a href="https://fredstraub.github.io/">Fred Straub</a>.
