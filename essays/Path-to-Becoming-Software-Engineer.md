@@ -3,7 +3,6 @@ layout: essay
 type: essay
 tittle: Path to Becoming Software Engineer
 date: 2020-12-17
-draft: false
 labels:
   - Software Engineer
   - Reflection
