@@ -21,7 +21,7 @@ The goal of the application was to visualize occupancy of the University of Hawa
 
 In our landing page, a map is shown that visializes the occupancy. Selecting any of the highlighted buildings will present a popup of the occupancy for that building and the name of the building. There is a drop down tab that allows the user to pick one of the date times. The data will then display on the map the occupancy of that date time. The data we used for this project was provided by <a href="https://github.com/HACC2020/data/tree/main/uh_occupancy">HACC</a>.
 
-<img class="ui huge rounded image" src="../images/M3-Landing-Page-with-nav.PNG">
+<img class="ui huge rounded floated right image" src="../images/M3-Landing-Page-with-nav.PNG">
 
 Of, course we wanted to make this for the campus, so we needed a way for admins to login. For this we used the template provided to allow the user to log in and also sign in. Once the users logs in or signed up for an account they will be taken to the home page.
     
