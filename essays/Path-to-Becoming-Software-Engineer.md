@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-tittle: Path to Becoming Software Engineer
+title: Path to Becoming Software Engineer
 date: 2020-12-17
 labels:
   - Software Engineer
