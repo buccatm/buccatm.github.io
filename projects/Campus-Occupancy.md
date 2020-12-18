@@ -23,7 +23,7 @@ In our landing page, a map is shown that visializes the occupancy. Selecting any
 
 Of, course we wanted to make this for the campus, so we needed a way for admins to login. For this we used the template provided to allow the user to log in and also sign in. Once the users logs in or signed up for an account they will be taken to the home page.
 
- <div class="ui huge rounded image">
+ <div class="ui huge image">
   <img src="../images/M3-Login-page.PNG">
   <img src="../images/M3-Sign-up-page.PNG">
 </div>
