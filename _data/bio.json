@@ -98,8 +98,9 @@
   ],
   "volunteer": [
     {
-      "company": "",
       "organization": "Local 5",
+      "company": "",
+      "position":"",
       "website": "",
       "startDate": "2017-11-01",
       "endDate": "2017-12-16",
@@ -111,8 +112,9 @@
       ]
     },
     {
-      "company": "",
       "organization": "Moanlua High School Engineering Club",
+      "company": "",
+      "position":"",
       "website": "",
       "startDate": "2016-8-24",
       "endDate": "2017-5-10",
@@ -124,8 +126,9 @@
     ]
     },
     {
-      "company": "",
       "organization": "Moilili Community Thrift Shop",
+      "company": "",
+      "position":"",
       "website": "",
       "startDate": "2014-12-10",
       "endDate": "2014-12-10",
