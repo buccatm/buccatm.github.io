@@ -23,18 +23,7 @@ In our landing page, a map is shown that visualizes the occupancy.  <img class="
 
 Of course we wanted to make this for the campus, so we needed a way for admins to login. For this we used the template provided to allow the user to log in and also sign in. Once the users logs in or signed up for an account they will be taken to the home page.
 
-<img class="ui huge rounded image" src="../images/M3-Login-page.PNG">
-
-
-<img class="ui huge rounded image" src="../images/M3-Sign-up-page.PNG">
-
-
-
 The Home page will display a similar map with the drop downs. However, a table will also be displayed to show more information, such as the date time, occupancy value and the building. The last page is the import data page. This page will take a csv file to import into the database. However the csv file must contain the required properties.
-
-
-<img class="ui huge rounded image" src="../images/map-with-data.jpg">
-
 
 Creating the import page was one of my task. Originally we wanted a way to upload both a json file and a csv file. However, I was only able to find a way to upload a csv file into our database. So we decided to just stick with the csv file. But there were some tasks that demanded everyone's attention. Some of these task was trying to display our datas from Mongo onto the map and finding a way to display the data onto the map based on the time selected by the dropdown. These two tasks were by far the challenging part of this project. Fortunately we were able to find a way to get these two to work, it just involved a lot of googling and asking smart questions.
 
