@@ -34,7 +34,7 @@ Of, course we wanted to make this for the campus, so we needed a way for admins 
 The Home page will display a similar map with the drop downs. However, a table will also be displayed to show more inforamtion, such as the date time, occupancy value and the building. The last page is the import data page. This page will take a cvs file to import into the data base. However the cvs file must contain the required properties. 
 
 
-<img class="ui large rounded image" src="../images/map-with-data.jpg">
+<img class="ui huge rounded image" src="../images/map-with-data.jpg">
 
 
 Creating the import page was one of my task. Originally we wanted a way to upload both a json file and a cvs file. However, I was only able to find a way to upload cvs file into our database. So we decided to just stick with the cvs file. But there were some tasks that demanded everyones attention. Some of these task was trying to display our datas from Mongo onto the map and finding a way to display the data onto the map based on the time selected by the dropdown. These two task was by far the challenging part of this project. Fortunatley we were able to find a way to get these two to work, it just involved a lot of googling and asking smart questions.
